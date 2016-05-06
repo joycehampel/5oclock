@@ -1,4 +1,4 @@
-# This is a website/widget that tells you the nearest place where it is 5 O'clock
+# This is a website/widget that tells where it is 5 O'clock pm
 
 
 ## It's pretty neat.
